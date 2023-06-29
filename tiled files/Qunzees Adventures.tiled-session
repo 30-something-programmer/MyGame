@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "village.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Hills.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "village.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 174.75,
+                "y": -80
+            }
+        }
+    },
+    "last.imagePath": "D:/OneDrive/Repository/MyGame/images/Sprout Garden/tilesets",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "village.tmx",
+        "Hills.tsx"
+    ],
+    "project": "Qunzees Adventures.tiled-project",
+    "recentFiles": [
+        "Hills.tsx",
+        "village.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.useTransparentColor": true
+}
